@@ -2,7 +2,7 @@
 
 Repository: `ThreeAndTwo/anchor`
 Branch: `master`
-Inspected head: `a87c8c25403c2a7434078a9a254d381fcb9964a3`
+Inspected head: `178908dc5541444ece6e5f282b4a5bbc1722e578`
 
 Actions were disabled before this cleanup. Keep them disabled until the repository owner explicitly approves restoration.
 
@@ -10,9 +10,7 @@ The owner confirmed that this personal repository must not contain GitHub Action
 
 Files removed in this change:
 
-- `.github/workflows/no-caching-tests.yaml` — original Git object `bb997e91b5c1d4074524c58b65c41bc8cc1869ee`.
-- `.github/workflows/reusable-tests.yaml` — original Git object `bf2019f8b4ff98cd65060672d8f342df0665eba9`.
-- `.github/workflows/tests.yaml` — original Git object `870b2acea717ce55dfb0b1748ac891a0ef8e18d7`.
+- No workflow file remains to remove at this inspected head; this commit records containment and the owner's policy.
 
 Evidence and limits
 
